@@ -1,7 +1,7 @@
 <asset_composite xmlns="http://namespaces.softwareag.com/acdl/1.0" targetNamespace="http://namespaces.softwareag.com/webMethods/IS" name="loanserver" runtimeVersion="10.3.0.0">
   <implementation.generic type="ispackage" />
-  <buildInfo name="BuildVersion" value="10.3.0.1533646314508" />
-  <buildInfo name="BuildTimestamp" value="2018-08-07T18:21:54" />
+  <buildInfo name="BuildVersion" value="10.3.0.0.1536051494892" />
+  <buildInfo name="BuildTimestamp" value="2018-09-04T19:58:14" />
   <buildInfo name="MinimumTargetRuntimeVersion" value="10.3.0.0" />
   <property name="activatePkgOnInstall" displayName="Activate Package On Install">
     <value>true</value>
@@ -53,7 +53,6 @@
   </asset>
   <asset name="loan.getLoanStatusTest" displayName="loan:getLoanStatusTest">
     <implementation.generic type="isflowservice" />
-    <dependsOn>IS:loan.responseMessage</dependsOn>
     <dependsOn>IS:loan.getLoanStatus</dependsOn>
   </asset>
   <asset name="loan.loanRequestListener" displayName="loan:loanRequestListener">
