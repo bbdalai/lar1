@@ -4,7 +4,7 @@
     <buildInfo name="build.timestamp" value="2019-01-18T16:29:11"/>
     <buildInfo name="productId" value="NUMRealmServer"/>
     <property name="universal-messaging-umserver.um-jndi-dest-123.autocreatedest" many="false" isSecure="false" displayName="universal-messaging-umserver.um-jndi-dest-123.autocreatedest">
-        <value>'false'</value>
+        <value>true</value>
     </property>
     <property name="universal-messaging-umserver.common-local-users-ss.password" many="false" isSecure="true" displayName="universal-messaging-umserver.common-local-users-ss.password">
         <value>'2'</value>
