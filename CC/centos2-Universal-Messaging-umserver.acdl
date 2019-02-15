@@ -7,15 +7,15 @@
         <value>NSP://UNUSED:0</value>
     </property>
     <property name="universal-messaging-umserver.um-jndi-dest-aa.autocreatedest" many="false" isSecure="false" displayName="universal-messaging-umserver.um-jndi-dest-aa.autocreatedest">
-        <value>'false'</value>
+        <value>true</value>
     </property>
     <property name="universal-messaging-umserver.um-jndi-dest-clouddemo.autocreatedest" many="false" isSecure="false" displayName="universal-messaging-umserver.um-jndi-dest-clouddemo.autocreatedest">
-        <value>'false'</value>
+        <value>true</value>
     </property>
     <property name="universal-messaging-umserver.um-jndi-dest-bb.autocreatedest" many="false" isSecure="false" displayName="universal-messaging-umserver.um-jndi-dest-bb.autocreatedest">
-        <value>'false'</value>
+        <value>true</value>
     </property>
     <property name="universal-messaging-umserver.um-jndi-dest-cc.autocreatedest" many="false" isSecure="false" displayName="universal-messaging-umserver.um-jndi-dest-cc.autocreatedest">
-        <value>'false'</value>
+        <value>true</value>
     </property>
 </asset_composite>
