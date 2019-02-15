@@ -4,18 +4,18 @@
     <buildInfo name="build.timestamp" value="2019-02-15T14:15:53"/>
     <buildInfo name="productId" value="NUMRealmServer"/>
     <property name="universal-messaging-umserver.um-jndi-cf-cloud_demo_cf.url" many="false" isSecure="false" displayName="universal-messaging-umserver.um-jndi-cf-cloud_demo_cf.url">
-        <value>nsp://vmdbvt05:9000</value>
+        <value>NSP://UNUSED:0</value>
     </property>
     <property name="universal-messaging-umserver.um-jndi-dest-aa.autocreatedest" many="false" isSecure="false" displayName="universal-messaging-umserver.um-jndi-dest-aa.autocreatedest">
-        <value>'false'</value>
+        <value>true</value>
     </property>
     <property name="universal-messaging-umserver.um-jndi-dest-clouddemo.autocreatedest" many="false" isSecure="false" displayName="universal-messaging-umserver.um-jndi-dest-clouddemo.autocreatedest">
-        <value>'false'</value>
+        <value>true</value>
     </property>
     <property name="universal-messaging-umserver.um-jndi-dest-bb.autocreatedest" many="false" isSecure="false" displayName="universal-messaging-umserver.um-jndi-dest-bb.autocreatedest">
-        <value>'false'</value>
+        <value>true</value>
     </property>
-    <property name="universal-messaging-umserver.common-local-users-bbdalai.password" many="false" isSecure="true" displayName="universal-messaging-umserver.common-local-users-bbdalai.password">
-        <value>''</value>
+    <property name="universal-messaging-umserver.common-local-users-bbdalai.password" many="false" isSecure="false" displayName="universal-messaging-umserver.common-local-users-bbdalai.password">
+        <value>bbdalai01</value>
     </property>
 </asset_composite>
