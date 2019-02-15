@@ -4,12 +4,12 @@
     <buildInfo name="build.timestamp" value="2019-02-15T14:06:33"/>
     <buildInfo name="productId" value="NUMRealmServer"/>
     <property name="universal-messaging-umserver.um-jndi-dest-aa.autocreatedest" many="false" isSecure="false" displayName="universal-messaging-umserver.um-jndi-dest-aa.autocreatedest">
-        <value>'false'</value>
+        <value>true</value>
     </property>
     <property name="universal-messaging-umserver.um-jndi-dest-clouddemo.autocreatedest" many="false" isSecure="false" displayName="universal-messaging-umserver.um-jndi-dest-clouddemo.autocreatedest">
-        <value>'false'</value>
+        <value>true</value>
     </property>
     <property name="universal-messaging-umserver.um-jndi-dest-bb.autocreatedest" many="false" isSecure="false" displayName="universal-messaging-umserver.um-jndi-dest-bb.autocreatedest">
-        <value>'false'</value>
+        <value>true</value>
     </property>
 </asset_composite>
